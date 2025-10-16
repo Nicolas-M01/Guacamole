@@ -1,4 +1,37 @@
-# Guacamole
+# Mise-en-place-d-un-bastion  
+
+## 1) Etude comparative des solutions de Bastion  
+
+### Définition  
+Un Bastion est un serveur spécialement sécurisé entre un réseau interne et un réseau non sécurisé comme internet.  
+Il permet de protéger les comptes à privilèges en particulier, en contrôlant et surveillant les accès dans un environnement sécurisé.
+
+
+### Comparaison de différentes solutions de Bastions
+
+J'ai retenu 3 solutions 
+* Guacamole
+* Teleport
+* Azure Bastion
+
+|Nom du serveur|Guacamole|Teleport|Azure Bastion|
+|---|---|---|---|
+|Protocole pris en charge|SSH, RDP, HTTPS...|SSH, RDP, HTTPS...|SSH et RDP seulement|
+|Gratuité|:white_check_mark:|:white_check_mark:|:x:|
+|Type de gestion|On premise|On premise|SaaS|
+|Maintenance|Nous-même|Nous-même|Microsoft|
+
+
+Après analyse de ces 3 solutions, j'élimine rapidement Azure Bastion qui est une solution payante. Et je choisis d'installer Guacamole, qui est gratuit, et considéré comme assez simple d'installation pour des accès en RDP et SSH.  
+J'opte pour une solution simple et efficace !  
+
+Guacamole sera donc le point d'accès unique pour accéder aux autres serveurs.
+Il convient d'installer Guacamole dans une DMZ si l'on souhaite s'y connecter depuis l'extérieur (internet) pour se connecter sur les serveurs internes aux réseau privé.  
+
+
+
+## 2) Déploiement d'un bastion  
+
 
 ## :arrow_forward: Connexion par interface Web  
 
@@ -37,7 +70,7 @@ Puis Nommer le groupe
 <img width="474" height="143" alt="image" src="https://github.com/user-attachments/assets/f3f90d19-8c49-4512-9770-bb17c583fa5e" />  
 **Compte avec lequel s'authentifier sur le serveur distant, le nom de domaine**  
 <img width="730" height="135" alt="image" src="https://github.com/user-attachments/assets/35fe76bb-0c52-4467-a8b0-bb481751c899" />  
-
+**D'autres paramètres peuvent être ajoutés, comme ignorer certificats si on se connecte par adresse IP. Le fuseau horaire, clavier ...
 
 
 
