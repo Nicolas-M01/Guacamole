@@ -16,11 +16,21 @@
 
 ## :arrow_forward: Création de groupes  
 
-**`Paramètres > Connexions > Nouveau groupe`**
-**Nommer le groupe**  
-> 💡 Note: *ROOT* est à la racine de l'arborescence.  
+**`Paramètres > Connexions > Nouveau groupe`**  
+Puis Nommer le groupe  
+> 💡 Note:  
+> *ROOT* est à la racine de l'arborescence.  
 > *Organizationel* contient les groupes qui gèrent les connexions.  
+<img width="1207" height="457" alt="Capture d'écran 2025-10-16 182124" src="https://github.com/user-attachments/assets/273e8c10-ab54-4269-a6b9-bb9c02dc3b1e" />  
 
-
+---
 
 ## :arrow_forward: Ajouter connexion RDP  
+
+**`Paramètres > Connexions > Nouvelle connexion`**  
+<img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />
+
+
+
+
+
