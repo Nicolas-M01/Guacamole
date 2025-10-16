@@ -74,6 +74,9 @@ Puis Nommer le groupe
 **Puis, enregistrer**  
 
 
+## :arrow_forward: Connexion RDP  
+Lorsque l'on clique sur notre serveur on est connecté en RDP dessus.   
+<img width="1209" height="350" alt="Capture d'écran 2025-10-16 185629" src="https://github.com/user-attachments/assets/ce8e3128-8c97-4037-b65f-93bacd0a60d6" />  
 
 
 
