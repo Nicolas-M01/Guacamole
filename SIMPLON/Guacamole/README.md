@@ -71,7 +71,7 @@ Puis Nommer le groupe
 **Compte avec lequel s'authentifier sur le serveur distant, le nom de domaine**  
 <img width="730" height="135" alt="image" src="https://github.com/user-attachments/assets/35fe76bb-0c52-4467-a8b0-bb481751c899" />  
 **D'autres paramètres peuvent être ajoutés, comme ignorer certificats si on se connecte par adresse IP. Le fuseau horaire, clavier, beaucoup d'options de conforts sont paramétrables dans ce menu...**  
-
+**Puis, enregistrer**  
 
 
 
