@@ -1,4 +1,4 @@
-# 🥑 Mise en place d'un bastion 🥑  
+# 🏰 Mise en place d'un bastion 🏰 
 
 <details>
 <summary><h2> :large_blue_circle: Etude comparative des solutions de Bastion<h2></summary>  
@@ -137,4 +137,4 @@ Lorsque l'on clique sur notre serveur on est connecté en RDP dessus.
 
 ---
 
-## 😸
+## 🥑 😸 🥑
