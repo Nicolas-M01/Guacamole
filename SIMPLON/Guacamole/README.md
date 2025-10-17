@@ -101,10 +101,14 @@ Puis Nommer le groupe
 <details>
 <summary><h3>  :arrow_forward: Ajouter connexion RDP<h3></summary>  
   
-**`Paramètres > Connexions > Nouvelle connexion`**  
+> ⚙️ **`Paramètres > Connexions > Nouvelle connexion`**  
+
 <img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />  
 
-**Renseigner le nom de la nouvelle connexion, le groupe, le protocole.**  
+---
+
+> ⚙️ **`Renseigner le nom de la nouvelle connexion, le groupe, le protocole.`**
+
 <img width="305" height="103" alt="Capture d'écran 2025-10-16 183718" src="https://github.com/user-attachments/assets/b3c36e00-d1d7-465e-bafd-228fabdcaa80" />  
 
 **Dans Réseau, renseigner DNS ou IP de la cible. Le port si ce n'est pas le port par défaut.**  
