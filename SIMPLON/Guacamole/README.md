@@ -125,8 +125,8 @@ Puis Nommer le groupe
 
 ---
 
-> ⚙️ **`D'autres paramètres peuvent être ajoutés, comme ignorer certificats si on se connecte par adresse IP. Le fuseau horaire, clavier, beaucoup d'options de conforts sont paramétrables dans ce menu...**  
->**Puis, enregistrer`**  
+> ⚙️ **`D'autres paramètres peuvent être ajoutés, comme ignorer certificats si on se connecte par adresse IP. Le fuseau horaire, clavier, beaucoup d'options de conforts sont paramétrables dans ce menu... 
+>Puis, enregistrer`**    
 
 
 ### :arrow_forward: Connexion RDP  
