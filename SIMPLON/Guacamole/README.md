@@ -51,6 +51,8 @@ Il convient d'installer Guacamole dans une DMZ si l'on souhaite s'y connecter de
 
 <img width="290" height="320" alt="image" src="https://github.com/user-attachments/assets/16cf923e-bc82-4ee0-ae4c-160a09fbba50" />  
 
+---
+
 ### :arrow_forward: Création de groupes  
 
 **`Paramètres > Connexions > Nouveau groupe`**  
@@ -62,8 +64,16 @@ Puis Nommer le groupe
 
 ---
 
-### :arrow_forward: Ajouter connexion RDP  
+<details>
+<summary><h3>  :arrow_forward: Ajouter connexion SSH<h3></summary>  
 
+</details>
+
+---
+
+<details>
+<summary><h3>  :arrow_forward: Ajouter connexion RDP<h3></summary>  
+  
 **`Paramètres > Connexions > Nouvelle connexion`**  
 <img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />  
 
