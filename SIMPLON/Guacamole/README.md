@@ -67,28 +67,33 @@ Puis Nommer le groupe
 <details>
 <summary><h3>  :arrow_forward: Ajouter connexion SSH<h3></summary>  
 
-**`Paramètres > Connexions > Nouvelle connexion`**  
+> ⚙️ **`Paramètres > Connexions > Nouvelle connexion`**  
+
 <img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />  
 
 ---
+
+> ⚙️ **`Bien renseigner le paramètre SSH`**  
 
 <img width="316" height="154" alt="image" src="https://github.com/user-attachments/assets/6bae02f7-0f2e-4d80-bc13-51a75dcc0c44" />  
 
 ---
 
+> ⚙️ **`Renseigner l'IP de la machine cible, le port (ici port 22 par défaut), puis l'identifiant et le mot de passe du compte de la machine distante`**  
+
 <img width="481" height="330" alt="Capture d'écran 2025-10-17 144755" src="https://github.com/user-attachments/assets/5875b34f-76d0-4401-a773-f6406110101b" />  
 
 ---
+
+> ⚙️ **`Sur le menu d'acceuil on peut visualiser les dernières connexions ainsi que les connexions possibles en bas à gauche, il suffit de cliquer`**  
 
 <img width="1206" height="481" alt="image" src="https://github.com/user-attachments/assets/6dfd6355-2c80-40dd-a17d-18e03c4c12f7" />   
 
 ---
 
-<img width="1198" height="679" alt="image" src="https://github.com/user-attachments/assets/4c3ab297-fb9e-42a4-aa5f-691965646d73" />  
+> ⚙️ **`Connexion sur la machine distante, on voit bien le nom de compte et l'adresse IP de la machine`**  
 
----
-
-
+<img width="1198" height="679" alt="Capture d'écran 2025-10-17 151122" src="https://github.com/user-attachments/assets/abff8edb-4bad-43ac-ae4c-bd41be5c16b3" />  
 </details>
 
 ---
