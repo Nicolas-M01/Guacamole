@@ -67,6 +67,28 @@ Puis Nommer le groupe
 <details>
 <summary><h3>  :arrow_forward: Ajouter connexion SSH<h3></summary>  
 
+**`Paramètres > Connexions > Nouvelle connexion`**  
+<img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />  
+
+---
+
+<img width="316" height="154" alt="image" src="https://github.com/user-attachments/assets/6bae02f7-0f2e-4d80-bc13-51a75dcc0c44" />  
+
+---
+
+<img width="481" height="330" alt="Capture d'écran 2025-10-17 144755" src="https://github.com/user-attachments/assets/5875b34f-76d0-4401-a773-f6406110101b" />  
+
+---
+
+<img width="1206" height="481" alt="image" src="https://github.com/user-attachments/assets/6dfd6355-2c80-40dd-a17d-18e03c4c12f7" />   
+
+---
+
+<img width="1198" height="679" alt="image" src="https://github.com/user-attachments/assets/4c3ab297-fb9e-42a4-aa5f-691965646d73" />  
+
+---
+
+
 </details>
 
 ---
