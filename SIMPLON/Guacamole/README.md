@@ -1,13 +1,15 @@
 # Mise-en-place-d-un-bastion  
 
-## 1) Etude comparative des solutions de Bastion  
+<details>
+<summary><h2> :large_blue_circle: Etude comparative des solutions de Bastion<h2></summary>  
 
-### Définition  
-Un Bastion est un serveur spécialement sécurisé entre un réseau interne et un réseau non sécurisé comme internet.  
-Il permet de protéger les comptes à privilèges en particulier, en contrôlant et surveillant les accès dans un environnement sécurisé.
+### :arrow_forward: Définition  
+>Un Bastion est un serveur spécialement sécurisé entre un réseau interne et un réseau non sécurisé comme internet.  
+>Il permet de protéger les comptes à privilèges en particulier, en contrôlant et surveillant les accès dans un environnement sécurisé.
 
+---
 
-### Comparaison de différentes solutions de Bastions
+### :arrow_forward: Comparaison de différentes solutions de Bastions
 
 J'ai retenu 3 solutions 
 * Guacamole
@@ -27,13 +29,15 @@ J'opte pour une solution simple et efficace !
 
 Guacamole sera donc le point d'accès unique pour accéder aux autres serveurs.
 Il convient d'installer Guacamole dans une DMZ si l'on souhaite s'y connecter depuis l'extérieur (internet) pour se connecter sur les serveurs internes aux réseau privé.  
+</details>
+
+---
+
+<details>
+<summary><h2> :large_blue_circle:  Déploiement d'un bastion<h2></summary>  
 
 
-
-## 2) Déploiement d'un bastion  
-
-
-## :arrow_forward: Connexion par interface Web  
+### :arrow_forward: Connexion par interface Web  
 
 **On se connecte à l'interface depuis une machine cliente sur le réseau à l'adresse du serveur Guacamamole comme montré ci dessous.**  
 
@@ -41,13 +45,13 @@ Il convient d'installer Guacamole dans une DMZ si l'on souhaite s'y connecter de
 
 ---
 
-## :arrow_forward: Je rentre ensuite mes identifiants  
+### :arrow_forward: Je rentre ensuite mes identifiants  
 
 > 💡 Note: J'ai supprimé le compte Admin standard et récréé un nouveau avec un nouveau mot de passe  
 
 <img width="290" height="320" alt="image" src="https://github.com/user-attachments/assets/16cf923e-bc82-4ee0-ae4c-160a09fbba50" />  
 
-## :arrow_forward: Création de groupes  
+### :arrow_forward: Création de groupes  
 
 **`Paramètres > Connexions > Nouveau groupe`**  
 Puis Nommer le groupe  
@@ -58,7 +62,7 @@ Puis Nommer le groupe
 
 ---
 
-## :arrow_forward: Ajouter connexion RDP  
+### :arrow_forward: Ajouter connexion RDP  
 
 **`Paramètres > Connexions > Nouvelle connexion`**  
 <img width="1209" height="368" alt="Capture d'écran 2025-10-16 181718" src="https://github.com/user-attachments/assets/bb86a619-0f42-4910-8ac2-01abf36a0d40" />  
@@ -74,9 +78,9 @@ Puis Nommer le groupe
 **Puis, enregistrer**  
 
 
-## :arrow_forward: Connexion RDP  
+### :arrow_forward: Connexion RDP  
 Lorsque l'on clique sur notre serveur on est connecté en RDP dessus.   
 <img width="1209" height="350" alt="Capture d'écran 2025-10-16 185629" src="https://github.com/user-attachments/assets/ce8e3128-8c97-4037-b65f-93bacd0a60d6" />  
 
-
+</details>
 
