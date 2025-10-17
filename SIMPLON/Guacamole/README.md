@@ -1,4 +1,4 @@
-# Mise-en-place-d-un-bastion  
+# :trident: Mise en place d'un bastion :trident:  
 
 <details>
 <summary><h2> :large_blue_circle: Etude comparative des solutions de Bastion<h2></summary>  
