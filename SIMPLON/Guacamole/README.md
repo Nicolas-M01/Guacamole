@@ -109,19 +109,19 @@ Puis Nommer le groupe
 
 > ⚙️ **`Renseigner le nom de la nouvelle connexion, le groupe, le protocole.`**
 
-<img width="305" height="103" alt="Capture d'écran 2025-10-16 183718" src="https://github.com/user-attachments/assets/b3c36e00-d1d7-465e-bafd-228fabdcaa80" />  
+<img width="293" height="145" alt="Capture d'écran 2025-10-20 080719" src="https://github.com/user-attachments/assets/6d0154b2-cf45-43f1-9859-1afb2b3cc26d" />  
 
 ---
 
-> ⚙️ **`Dans Réseau, renseigner DNS ou IP de la cible. Le port si ce n'est pas le port par défaut.`**
+> ⚙️ **`Dans Réseau, renseigner DNS ou IP de la cible. Le port si ce n'est pas le port par défaut.`**  
 
-<img width="474" height="143" alt="image" src="https://github.com/user-attachments/assets/f3f90d19-8c49-4512-9770-bb17c583fa5e" />  
+<img width="488" height="200" alt="Capture d'écran 2025-10-20 080724" src="https://github.com/user-attachments/assets/27fcf43e-97c7-473a-845a-88b03669a67c" />  
 
 ---
 
 > ⚙️ **`Compte avec lequel s'authentifier sur le serveur distant, le nom de domaine`**
 
-<img width="730" height="135" alt="image" src="https://github.com/user-attachments/assets/35fe76bb-0c52-4467-a8b0-bb481751c899" />  
+<img width="727" height="266" alt="Capture d'écran 2025-10-20 080731" src="https://github.com/user-attachments/assets/9b1a7708-62cc-421f-807e-71c812da5fb3" />  
 
 ---
 
