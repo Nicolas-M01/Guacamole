@@ -129,9 +129,29 @@ Puis Nommer le groupe
 >Puis, enregistrer`**    
 
 
+### :arrow_forward: Côté client  
+
+> ⚙️ **`On autorise la connexion RDP, on autorise un utilisateur`**  
+
+<img width="957" height="652" alt="image" src="https://github.com/user-attachments/assets/0a0e0761-7622-4738-9e80-05552b68d31f" />  
+
+---
+
+> ⚙️ **`On vérifie que le port 3389 est en écoute depuis toutes les machines`**
+
+<img width="888" height="388" alt="image" src="https://github.com/user-attachments/assets/c830d2a7-6e66-4442-a54d-a15e3f465f2b" />  
+
+---
+
 ### :arrow_forward: Connexion RDP  
 Lorsque l'on clique sur notre serveur on est connecté en RDP dessus.   
 <img width="1209" height="350" alt="Capture d'écran 2025-10-16 185629" src="https://github.com/user-attachments/assets/ce8e3128-8c97-4037-b65f-93bacd0a60d6" />  
+
+
+
+
+
+
 </details>
 </details>
 
