@@ -177,6 +177,26 @@ Puis Nommer le groupe
 <details>
 <summary><h3> :arrow_forward: Connexion sur serveur Web Apache2 avec tunnel SSH</h3></summary>  
 
+> ⚙️ **`On crée une règle de redirection sur le PfSense : depuis ma machine physique (maison), connexion à l'IP publique du pfSense sur le port 44022, qui nous redirige sur le 192.168.1.151, port 22`**   
+
+<img width="1144" height="645" alt="Capture d'écran 2025-10-20 162814" src="https://github.com/user-attachments/assets/b680f895-9bae-4083-9796-9f99a03bbfc5" />  
+<img width="1137" height="637" alt="Capture d'écran 2025-10-20 162841" src="https://github.com/user-attachments/assets/21f2d205-26ee-443e-8c4f-dd1b362d7ec5" />  
+
+---
+
+> ⚙️ **`On crée un tunnel en SSH entre ma machine physique (maison) et le serveur distant (serveur Guacamole)`**  
+
+<img width="812" height="245" alt="Capture d'écran 2025-10-20 160847" src="https://github.com/user-attachments/assets/7217d4cf-9647-44ef-bb13-873646acc79e" />
+
+---
+
+<img width="1624" height="734" alt="Capture d'écran 2025-10-20 160918" src="https://github.com/user-attachments/assets/13e90db2-ce68-471c-bc46-5eac2b0be78a" />
+
+---
+
+</details>
+
+
 </details>
 
 ---
