@@ -184,11 +184,19 @@ Puis Nommer le groupe
 
 ---
 
-> ⚙️ **`On crée un tunnel en SSH entre ma machine physique (maison) et le serveur distant (serveur Guacamole)`**  
+> ⚙️ **`On crée un tunnel en SSH entre ma machine physique (maison) et le serveur distant (serveur Guacamole) grâce à la redirection de port expliquée ci dessus. Grâce à ce tunnel (ssh -L), tout ce que je vais envoyer en local (maison) sur le port 44080 sera envoyé en SSH vers le port 80 du serveur Web 192.168.1.160 (serveur Apache)`**  
 
 <img width="812" height="245" alt="Capture d'écran 2025-10-20 160847" src="https://github.com/user-attachments/assets/7217d4cf-9647-44ef-bb13-873646acc79e" />
 
----
+---  
+
+``ssh`` :	Lance une session SSH.  
+``-L``	: Définit un port forwarding local.  
+ ``44080:192.168.1.160:80`` : → Le port 44080 de la machine locale est relié au port 80 de 192.168.1.160, via la machine distante à laquelle je me connecte en SSH.  
+``nico@IPpublique``	Utilisateur (nico) et adresse publique du serveur SSH (ici le pare-feu pfSense qui redirige vers Guacamole).  
+``-p 44022``	Le port SSH non standard (car le port 22 est redirigé vers autre chose, donc j'utilise 44022).  
+
+
 
 <img width="1624" height="734" alt="Capture d'écran 2025-10-20 160918" src="https://github.com/user-attachments/assets/13e90db2-ce68-471c-bc46-5eac2b0be78a" />
 
