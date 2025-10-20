@@ -18,7 +18,7 @@ J'ai retenu 3 solutions
 
 |Nom du serveur|Guacamole|Teleport|Azure Bastion|
 |---|---|---|---|
-|Protocole pris en charge|SSH, RDP, HTTPS...|SSH, RDP, HTTPS...|SSH et RDP seulement|
+|Protocole pris en charge|SSH, RDP, VNC et Telnet|SSH, RDP, HTTPS...|SSH et RDP seulement|
 |Gratuité|:white_check_mark:|:white_check_mark:|:x:|
 |Type de gestion|On premise|On premise|SaaS|
 |Maintenance|Nous-même|Nous-même|Microsoft|
