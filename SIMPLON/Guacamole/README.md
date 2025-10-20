@@ -164,11 +164,11 @@ Puis Nommer le groupe
 
 <img width="563" height="578" alt="Capture d'écran 2025-10-20 075123" src="https://github.com/user-attachments/assets/e3d3e21f-20f7-4b80-9e33-77ff591be612" />
 
+---
 
+<img width="1910" height="459" alt="image" src="https://github.com/user-attachments/assets/b78cf7b7-5b93-411c-ab69-02918cf4a329" />  
 
-
-
-
+---
 
 </details>
 </details>
