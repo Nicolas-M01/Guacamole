@@ -196,7 +196,10 @@ Puis Nommer le groupe
 ``nico@IPpublique``	Utilisateur (nico) et adresse publique du serveur SSH (ici le pare-feu pfSense qui redirige vers Guacamole).  
 ``-p 44022``	Le port SSH non standard (car le port 22 est redirigé vers autre chose, donc j'utilise 44022).  
 
+---
 
+> ⚙️ **`Une fois connecté sur la machine en SSH, il ne me reste plus qu'à ouvrir une page Web depuis ma machine physique (maison), et de taper `http://localhost:44080
+`. Je suis enfin connecté à mon serveur Web depuis mon PC et tout passe par SSH, donc chiffré en asymétrique de mon PC à mon serveur Guacamole, de plus je rentre mon mot de passe de mon serveur Guacamole et pas port 80 ouvert sur le FireWall puisque tout passe par SSH, la connexion est donc sécurisée`**   
 
 <img width="1624" height="734" alt="Capture d'écran 2025-10-20 160918" src="https://github.com/user-attachments/assets/13e90db2-ce68-471c-bc46-5eac2b0be78a" />
 
