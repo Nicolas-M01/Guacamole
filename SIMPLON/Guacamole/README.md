@@ -151,7 +151,7 @@ Puis Nommer le groupe
 
 ---
 
-> ⚙️ **`Voici les commandes à exécuter`**  
+> ⚙️ **`Voici les commandes à exécuter, on voit par la suite que tout est fonctionnel`**  
 
 <img width="1083" height="526" alt="image" src="https://github.com/user-attachments/assets/968eaf4a-0cfb-41dd-aa8d-c279136ac144" />
 
