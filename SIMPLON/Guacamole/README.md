@@ -143,6 +143,20 @@ Puis Nommer le groupe
 
 ---
 
+### :arrow_forward: Problème rentcontré côté serveur  
+
+> ⚙️ **`Ce problème est lié au compte utilisateur "daemon" utilisé par défaut pour exécuter le service "guacd". Vous pouvez le vérifier avec cette commande : sudo ps aux | grep -v grep| grep guacd`**  
+
+<img width="1093" height="435" alt="image" src="https://github.com/user-attachments/assets/5988b207-d2f2-45dd-a45e-4a38361e566b" />  
+
+---
+
+> ⚙️ **`Voici les commandes à exécuter`**  
+
+<img width="1083" height="526" alt="image" src="https://github.com/user-attachments/assets/968eaf4a-0cfb-41dd-aa8d-c279136ac144" />
+
+---
+
 ### :arrow_forward: Connexion RDP  
 
 > ⚙️ **`Lorsque l'on clique sur notre serveur on est connecté en RDP dessus`**   
