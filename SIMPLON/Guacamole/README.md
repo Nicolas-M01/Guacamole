@@ -144,8 +144,12 @@ Puis Nommer le groupe
 ---
 
 ### :arrow_forward: Connexion RDP  
-Lorsque l'on clique sur notre serveur on est connecté en RDP dessus.   
-<img width="1209" height="350" alt="Capture d'écran 2025-10-16 185629" src="https://github.com/user-attachments/assets/ce8e3128-8c97-4037-b65f-93bacd0a60d6" />  
+
+> ⚙️ **`Lorsque l'on clique sur notre serveur on est connecté en RDP dessus`**   
+
+
+<img width="563" height="578" alt="Capture d'écran 2025-10-20 075123" src="https://github.com/user-attachments/assets/e3d3e21f-20f7-4b80-9e33-77ff591be612" />
+
 
 
 
