@@ -190,11 +190,11 @@ Puis Nommer le groupe
 
 ---  
 
-> 💡 Note:
->``ssh`` :	Lance une session SSH.  
-> ``-L``	: Définit un port forwarding local.
+> 💡 Note:  
+> ``ssh`` :	Lance une session SSH.  
+> ``-L``	: Définit un port forwarding local.  
 > ``44080:192.168.1.160:80`` : → Le port 44080 de la machine locale est relié au port 80 de 192.168.1.160, via la machine distante à laquelle je me connecte en SSH.  
-> ``nico@IPpublique``	Utilisateur (nico) et adresse publique du serveur SSH (ici le pare-feu pfSense qui redirige vers Guacamole).
+> ``nico@IPpublique``	Utilisateur (nico) et adresse publique du serveur SSH (ici le pare-feu pfSense qui redirige vers Guacamole).  
 > ``-p 44022``	Le port SSH non standard (car le port 22 est redirigé vers autre chose, donc j'utilise 44022).  
 
 ---
